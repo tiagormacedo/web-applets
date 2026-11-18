@@ -2,7 +2,7 @@
 
 A lightweight, dependency-free drawing board that runs entirely in the browser. Hover and click to draw grayscale shading, or flip the switch to paint in random colors. This project was developed while I was learning JavaScript with the [The Odin Project](<https://www.theodinproject.com/>) Foundations curriculum.
 
-![Screeshot Etch-a-Skecth app](/etch-a-sketch/screenshot web app.png?raw=true)
+<img src="https://github.com/tiagormacedo/web-applets/blob/e729e5b9b7d454b45af610dbb328912d5dbe332a/etch-a-sketch/screenshot%20web%20app.png" alt="Screenshot Etch-a-Sketch web app" width="300"></img>
 
 
 ## ✨ Features
