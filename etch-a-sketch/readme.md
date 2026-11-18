@@ -1,4 +1,4 @@
-# Etch a Sketch
+# Etch a sketch
 
 A lightweight, dependency-free drawing board that runs entirely in the browser. Hover and click to draw grayscale shading, or flip the switch to paint in random colors. This project was developed while I was learning JavaScript with the [The Odin Project](<https://www.theodinproject.com/>) Foundations curriculum.
 
@@ -79,7 +79,7 @@ etch-a-sketch/
 
 ## ⚠️ Known Limitations
 
-- Very high grid densities (thousands of squares) may affect performance. A `<canvas>` implementation would be more suitable for significantly larger grids.
+- Very high grid densities (thousands of squares) may affect performance.
 - No dedicated eraser button. In B&W mode, retracing a pixel eventually returns it to white.
 - No undo functionality.
 - No save or export functionality.
