@@ -4,6 +4,8 @@ A lightweight, dependency-free drawing board that runs entirely in the browser. 
 
 <img src="https://github.com/tiagormacedo/web-applets/blob/e729e5b9b7d454b45af610dbb328912d5dbe332a/etch-a-sketch/screenshot%20web%20app.png" alt="Screenshot Etch-a-Sketch web app" width="300"></img>
 
+[▶ Live demo](https://tiagormacedo.github.io/web-applets/etch-a-sketch/)
+
 
 ## ✨ Features
 
@@ -20,29 +22,15 @@ A lightweight, dependency-free drawing board that runs entirely in the browser. 
 
 ## 🚀 Getting Started
 
-Clone the repository:
-
-bash
-
 ```bash
+# Clone the repository
 git clone https://github.com/tiagormacedo/web-applets.git
-```
 
-Navigate into the project directory:
-
-bash
-
-```bash
+# Navigate into the project directory
 cd web-applets/etch-a-sketch
 ```
 
-Open `index.html` directly in your browser, or serve the project locally:
-
-bash
-
-```bash
-npx serve .
-```
+Then, open `index.html` directly in your browser, or serve the project locally.
 
 
 ## 🕹️ Usage
@@ -56,7 +44,7 @@ npx serve .
 | Re-trace a pixel (B&W) | Darkens it step by step, eventually returning it to white |
 
 
-## 🧠 How It Works
+## ⚙️ How It Works
 
 The project is built with three simple files:
 
@@ -70,8 +58,8 @@ The project is built with three simple files:
 ```text
 etch-a-sketch/
 ├── index.html
-├── readme.md
-├── screenshot web app.png
+├── README.md
+├── screenshot.png
 ├── script.js
 └── style.css
 ```
@@ -94,4 +82,4 @@ This is a fully static project with no user input, network requests, or third-pa
 
 ## 📄 License
 
-This project is licensed under the [MIT License](<https://opensource.org/license/mit/>).
+This project is licensed under the [MIT License](../LICENSE).
