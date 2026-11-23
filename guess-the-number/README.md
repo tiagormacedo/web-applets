@@ -5,7 +5,7 @@
 
 A simple browser‑based game where the player tries to guess a hidden number between 1 and 1000 (inclusive) in at most 10 attempts. This is a simple project built with plain HTML, CSS, and JavaScript (no dependencies, no build step), and created while I was learning JavaScript.
 
-![Screenshot](./screenshot.png)
+<img src="screenshot.png" alt="Screenshot of the Guess the number game" width="500">
 
 [▶ Live demo](https://tiagormacedo.github.io/web-applets/guess-the-number/)
 
